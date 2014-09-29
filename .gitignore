@@ -1,0 +1,6 @@
+# Built output
+public
+build
+
+# Dependency directory
+node_modules
